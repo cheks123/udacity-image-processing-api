@@ -1,8 +1,10 @@
-# udacity-image-processing-api
 # Image Processing API
 
 ## Introduction
 This is an Udacity project.
+
+## Installation
+To install the required npm packages run: npm install
 
 ## Server
 To run the server use: npm run start
