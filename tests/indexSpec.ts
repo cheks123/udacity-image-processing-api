@@ -1,4 +1,3 @@
-import router from "../src/routes/index";
 import sendImage from "../src/utils/send_image";
 import resizeImage from "../src/utils/resize_image";
 
