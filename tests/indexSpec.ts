@@ -6,7 +6,7 @@ import path from 'path';
 
 const request = supertest(app);
 
-describe("A suit to test tha image processing API", () =>{
+describe("A suit to test the image processing API", () =>{
     
     it("checks that resizeImage is defined", () =>{
         expect(resizeImage).toBeDefined()
