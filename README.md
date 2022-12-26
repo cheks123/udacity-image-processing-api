@@ -24,7 +24,7 @@ To test with Jasmine use: npm run jasmsine
 ## Home URL
 To go to the home page use: localhost:3800/api
 
-## Image URL
+## image URL
 To access the images use: 
 localhost:3800/api/image?image=<name of image>&width=<number>&height=<number>
 
