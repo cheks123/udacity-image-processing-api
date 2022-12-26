@@ -20,6 +20,10 @@ To run esLint use: npm run lint
 
 ## Jasmine
 To test with Jasmine use: npm run jasmsine
+Note: You have to build the application using 'npm run build' command before testing.
+
+## Test
+To build and test the application simultaneously use: npm run test
 
 ## Home URL
 To go to the home page use: localhost:3800/api
