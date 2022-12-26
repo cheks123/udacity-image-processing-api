@@ -11,3 +11,5 @@ app.use('/api', router);
 app.listen(PORT, () => {
   console.log(`Server listening at port ${PORT}`);
 });
+
+export default app;

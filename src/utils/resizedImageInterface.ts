@@ -1,4 +1,4 @@
-export default interface resizedImageInterface{
-    resizePath: string;
-    error: string
+export default interface resizedImageInterface {
+  resizePath: string;
+  error: string;
 }
